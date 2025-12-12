@@ -1,3 +1,22 @@
+# KfeBalcones – Coffee Shop iOS App
+
+## Overview
+KfeBalcones is an iOS app built with SwiftUI that simulates a coffee shop experience.  
+It includes:
+- Login / Sign Up
+- Home / Menu
+- Cart & Checkout
+- Account page
+- Rewards page
+
+## Tech Stack
+- Swift
+- SwiftUI
+- Xcode VERSION YOU USED
+- iOS TARGET VERSION (e.g., iOS 17)
+
+
+
 <img width="400" height="822" alt="Screenshot 2025-12-12 at 10 04 14 AM" src="https://github.com/user-attachments/assets/2b5fa1b4-58a7-4bb3-aa6e-4768355aeb64" />
 <img width="400" height="822" alt="Screenshot 2025-12-12 at 10 04 31 AM" src="https://github.com/user-attachments/assets/5a484d16-9941-46b9-a12e-866f74d23c97" />
 <img width="400" height="822" alt="Screenshot 2025-12-12 at 10 04 36 AM" src="https://github.com/user-attachments/assets/ecf458b5-0916-4b76-8798-9386d55cca20" />
